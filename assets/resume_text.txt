@@ -1,0 +1,49 @@
+Soham Sandbhor
+8767063463 | sohamsandbhor5@gmail.com | linkedin.com/in/sohamsandbhor-531245356e | github.com/SohamFE23
+Education
+Ajeenkya D.Y. Patil School of Engineering Pune,Maharashtra
+Bachelor of Engineering in Electronics and Telecommunication July 2023 – June 2027
+Santamai Jr. College Pune,Maharashtra
+Higher Education June 2022 – July 2023
+Experience
+AI/ML Intern December 2025 – July 2026
+Veino Technologies Pvt Ltd Pune
+• Worked on AI/ML and Computer Vision using Python, OpenCV, and YOLO..
+• Developed real-time object detection and image/video processing solutions.
+• Gained hands-on experience in model training, testing, and optimization.
+Python Developer Intern February 2025 – April 2025
+Sami Infotech Mumbai
+• Learned and applied Python programming, including the Turtle framework.
+• Created Power BI dashboards using real-world datasets through daily practical tasks
+• Automated basic data cleaning and analysis tasks using Python, improving the reporting workflow.
+Projects
+Movie Discovery Web Application | React 19, Vite, Tailwind CSS, Appwrite, OMDb API, JavaScript | GitHub |
+Live Demo
+• Developed a responsive movie discovery platform utilizing React 19 and Vite for optimized performance and fast
+builds.
+• Integrated the OMDb API to enable real-time movie search with debounced inputs to minimize unnecessary API
+requests.
+• Implemented Appwrite backend database to track search frequency and dynamically render trending movies based on
+user activity.
+Bank Management System | Java, Spring Boot, REST APIs,MySQL,Postman,Git | GitHub
+• Designed and implemented multi-user banking platform with account management, transaction processing, and user
+authentication
+• User login with secure password handling, role-based access control.
+Incident Analysis & Fault Determination Engine | Llama 7B, RAG, Python | GitHub
+• Integrated Llama 7B with RAG to analyze dashcam incidents and determine driver fault with legal reasoning
+• Implemented RTO rule integration for liability calculation—generates incident reports citing applicable traffic rules
+• End-to-end system: dashcam footage → incident extraction → fault determination → insurance-ready reports
+Programming Skills
+Languages: Java, Python, SQL, C++, Javascript
+Frontend: React.js, Tailwind CSS
+Backend: Core Java, OOP, JDBC, Servlets, Spring Boot, REST APIs, Maven
+Databases: MySQL,PostgreSQL
+AI/ML: Machine Learning, Computer Vision, YOLO, OpenCV
+Generative AI: LangChain, RAG, Embeddings, Vector Databases, LLM APIs
+Tools: Git, GitHub, VSCode
+Achievements & Extracurricular Activities
+• Participated in the ISRO H2S Hackathon, developing an AI/ML-oriented solution for urban heat mitigation and cooling
+strategies.
+• Regularly practice Data Structures and Algorithms on LeetCode, solving problems across arrays, strings, linked lists,
+trees, and other core topics.
+• Maintained 250+ GitHub contributions over the past year across multiple software and AI/ML projects.
